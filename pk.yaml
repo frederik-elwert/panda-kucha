@@ -1,0 +1,5 @@
+input-file: PechaKucha.md
+output-file: PechaKucha.html
+to: revealjs
+standalone: true
+self-contained: false
